@@ -61,6 +61,11 @@ Each region’s data is in a separate file. Data includes the video title, chann
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
+## Media
+![Final_dashboard](https://github.com/yogeshhh1207/Youtube_Analysis_With_AWS/assets/84472864/b182e063-537d-4178-9122-982a0d392b0a)
+![Architecture_Diagram](https://github.com/yogeshhh1207/Youtube_Analysis_With_AWS/assets/84472864/59c9fb59-f054-4b38-8602-24f6f9894160)
+
+
 ## Reference 
 
 Youtube: https://youtube.com/playlist?list=PLBJe2dFI4sguF2nU6Z3Od7BX8eALZN3mU
